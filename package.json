@@ -1,0 +1,16 @@
+{
+  "title": "Github Open External Links in New Tab",
+  "name": "github-open-external-links-in-new-tab",
+  "version": "0.0.1",
+  "description": "Opens links to external sites in a new tab.",
+  "main": "index.js",
+  "author": "Peter Doherty",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPLv3",
+  "keywords": [
+    "jetpack"
+  ]
+}
