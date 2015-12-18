@@ -22,4 +22,4 @@ useful idea that I came up with.
 - use boot for publish, package, etc.
 
 ## Resources
-- [Firefox Add-on SDK Getting Started tutorial](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_Started_%28jpm%29)
+- [Firefox Add-on SDK "Getting Started" tutorial](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_Started_%28jpm%29)
