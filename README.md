@@ -23,3 +23,4 @@ useful idea that I came up with.
 
 ## Resources
 - [Firefox Add-on SDK "Getting Started" tutorial](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_Started_%28jpm%29)
+- [Demo Video](https://www.youtube.com/watch?v=3VDqUlXCnoU&feature=youtu.be)
