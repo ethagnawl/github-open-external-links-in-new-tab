@@ -14,10 +14,12 @@
       (dispatch-message "open-url-in-new-tab" url)))
 
 (defn external-link?
-  [link]
-  (let [url (.-href link)
-        match-index (.indexOf url "github.com")]
-    (< match-index 0)))
+  ([link]
+   (external-link? "github.com" link))
+  ([needle link]
+   (let [url (.-href link)
+         match-index (.indexOf url needle)]
+     (< match-index 0))))
 
 (defn find-external-links
   []

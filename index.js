@@ -6,7 +6,7 @@ function openUrlInNewTab(url) {
 };
 
 pageMod.PageMod({
-    contentScriptFile: './attach-listeners-to-external-links.js',
+    contentScriptFile: './main.js',
     include: 'https://github.com*',
     onAttach: function (worker) {
         worker.port.on('open-url-in-new-tab', function (url) {
