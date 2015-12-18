@@ -16,6 +16,5 @@ useful idea that I came up with.
 ## TODO
 - port index.js to cljs
 - use :advanced compilation mode
-- re-introduce toggle button and allow users to toggle add-on on/off
-- tests
-- boot publish task
+- introduce toggle button and allow users to toggle add-on on/off
+- use boot for publish, package, etc.
