@@ -2,3 +2,4 @@ target
 out
 data/main.out
 .nrepl-history
+*.xpi

@@ -12,5 +12,9 @@
   "license": "GPLv3",
   "keywords": [
     "jetpack"
-  ]
+  ],
+  "scripts": {
+    "add-on": "jpm run -b /usr/bin/firefox",
+    "package": "jpm xpi"
+  }
 }
